@@ -1,0 +1,28 @@
+.button {
+    border: none;
+    color: white;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 20px 20px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  table{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNJDc3xJd_yBqkOLKoLuluLduSrR8KxIDXcOCAxFLBNRaFXcoWSp7pQ8w0wPopmQOeWM&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
